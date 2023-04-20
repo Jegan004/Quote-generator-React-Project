@@ -106,21 +106,19 @@ const Quotes = () => {
       <center>
         <Navigation/>
       <div class="text">
-  <span><b>Q</b></span>
+ <span><b>Q</b></span>
   <span><b>U</b></span>
   <span><b>O</b></span>
   <span><b>T</b></span>
   <span><b>E</b></span>
   <span><b></b></span>
-  <span><b>G</b></span>
-  <span><b>E</b></span>
+  <span><b>M</b></span>
+  <span><b>A</b></span>
+  <span><b>C</b></span>
+  <span><b>H</b></span>
+  <span><b>I</b></span>
   <span><b>N</b></span>
   <span><b>E</b></span>
-  <span><b>R</b></span>
-  <span><b>A</b></span>
-  <span><b>T</b></span>
-  <span><b>O</b></span>
-  <span><b>R</b></span>
 </div>
       </center>
       <span class="border border-black">
